@@ -1,5 +1,6 @@
 # Important!!
-The new address of the website is: [HealthInspect](http://34.131.250.74/).<br>
+The website has been taken offline due to server costs and the successful completion of the project. Please enjoy this video: [HealthInspect](https://drive.google.com/file/d/1Cr7YgfLb548d1vDmk5BNjzpCjQo6k1ls/view?usp=share_link/).
+<br>
 # HealthInspect
 HealthInspect is a web-based application that allows users to upload images of diseases and receive accurate, reliable information about their condition in just seconds. The uploaded image is processed through a powerful AI model, which uses deep learning algorithms and advanced image recognition techniques to analyze the image and identify any signs of disease.
 
